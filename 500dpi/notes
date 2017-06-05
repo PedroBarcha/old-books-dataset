@@ -1,0 +1,2 @@
+Both the 300dpi and the 500dpi sets were OCRed with two different OCR Free Software: OCRopus and Tesseract. The former presented better results with the 500dpi set (7,73% Character Error Rate vs 7.91% for the 300dpi set). Tesseract, on the other hand, presented better results with the 300dpi set (2.71% VS 2.85% for the 500dpi set).
+Nevertheless, for every part of the OCR studies, the 300dpi set was used, considering that pre-processing and processing OCR steps are faster on it than on the 500dpi set.
