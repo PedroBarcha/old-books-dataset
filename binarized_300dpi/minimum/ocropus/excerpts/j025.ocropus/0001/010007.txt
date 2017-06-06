@@ -1,0 +1,1 @@
+A diagonal should never be permitted to swing to any great degree

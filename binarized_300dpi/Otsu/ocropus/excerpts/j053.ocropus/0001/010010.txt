@@ -1,0 +1,1 @@
+photograph and makes the method clearer.

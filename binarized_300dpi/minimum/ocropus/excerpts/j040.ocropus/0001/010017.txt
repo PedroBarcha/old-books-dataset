@@ -1,0 +1,1 @@
+pattern must run parallel with the horizontal or vertical strands of

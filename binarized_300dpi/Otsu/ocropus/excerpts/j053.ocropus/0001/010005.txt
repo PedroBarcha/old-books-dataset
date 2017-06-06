@@ -1,0 +1,1 @@
+initial process is repeated at all corners until all openings are filled.

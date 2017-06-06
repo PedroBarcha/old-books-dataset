@@ -1,0 +1,1 @@
+Several binarization methods were applied to the 300dpi set (through Octave's graythresh method).

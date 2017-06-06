@@ -1,0 +1,1 @@
+Draw pencil lines entirely around the inner sides of the rails and

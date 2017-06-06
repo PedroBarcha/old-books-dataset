@@ -1,0 +1,1 @@
+thickness and width. Factories use a very simple motor driven

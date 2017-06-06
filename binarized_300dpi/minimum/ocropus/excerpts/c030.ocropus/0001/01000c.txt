@@ -1,0 +1,1 @@
+magnet draws pins on a table.

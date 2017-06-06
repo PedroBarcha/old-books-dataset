@@ -1,0 +1,1 @@
+color test with a reed. Reed absorbs a given amount of color,

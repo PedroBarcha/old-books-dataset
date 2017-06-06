@@ -1,0 +1,1 @@
+wrapped, When a strand runs out tack the end with the beginning

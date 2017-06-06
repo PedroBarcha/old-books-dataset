@@ -1,0 +1,1 @@
+position of the compass is inverted. The scale is a scale of

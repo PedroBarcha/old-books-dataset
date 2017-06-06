@@ -1,0 +1,1 @@
+strand the pieces should be of uneven lengths initially. One leaf or
