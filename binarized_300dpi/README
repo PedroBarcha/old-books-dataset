@@ -1,1 +1,2 @@
 Several binarization methods were applied to the 300dpi set (through Octave's graythresh method).
+When it comes to OCR, the Minimum set is highly recommended.
