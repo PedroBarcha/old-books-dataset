@@ -24,6 +24,5 @@ All the .tiff pages were converted from project Internet Archive's books (PDFs).
 
 The dataset is presented in several resolutions: 300dpi,500dpi,1000dpi.
 Also there are severa sets of 300dpi binarized with different methods.
-Furthermore, there are also 300dpi sets noised with several methods (and also the denoised version of them, with several denoising methods).
 
-Feel free to apply and study the sets contained here :)
+Feel free to use and study the sets contained here :)
